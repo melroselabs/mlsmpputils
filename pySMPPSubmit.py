@@ -1,3 +1,5 @@
+# https://github.com/melroselabs/mlsmpputils
+
 r,d,m="447700111222","447799222333","Hello world!"
 i,p,h,o="SYSTEMID","PASSWORD",'smscsim.smpp.org',2775
 
