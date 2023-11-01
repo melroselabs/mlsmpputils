@@ -2,7 +2,7 @@
 Code for working with SMPP
 
 ## pySMPPSubmit.py
-Compact and minimal code that binds to an SMPP server and submits a message. No external dependencies.
+Compact and minimal SMS client written in Python that binds to an SMPP server and submits a message. No external dependencies.
 
 Update first line (r,d,m variables ) with source address, destination address and message content.
 
