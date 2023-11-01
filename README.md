@@ -5,6 +5,7 @@ Code for working with SMPP
 Compact and minimal code that binds to an SMPP server and submits a message. No external dependencies.
 
 Update first line (r,d,m variables ) with source address, destination address and message content.
+
 Update second line (i,p,h,o) with SMPP account credentials (system ID, password, host/IP and port).
 
 ```
